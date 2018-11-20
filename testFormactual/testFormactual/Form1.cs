@@ -37,7 +37,30 @@ namespace testFormactual
         }
 
         //https://www.guru99.com/c-sharp-windows-forms-application.html
+        //https://stackoverflow.com/questions/11779143/how-do-i-run-a-python-script-from-c
         private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Random random = new Random();
+
+            string Name = fName.Text;
+            string Database = Fdatabase.Text;
+            int ID = random.Next(1, 100000);
+
+            MessageBox.Show(Name + "\n" + Database + "\n" + ID);
+        }
+
+
+        private void wishlist_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
         {
 
         }
