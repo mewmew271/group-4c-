@@ -8,3 +8,13 @@ C:\Users\mewme\OneDrive\Desktop\python test\testFormactual\testFormactual\obj\De
 C:\Users\mewme\OneDrive\Desktop\python test\testFormactual\testFormactual\obj\Debug\testFormactual.csproj.CoreCompileInputs.cache
 C:\Users\mewme\OneDrive\Desktop\python test\testFormactual\testFormactual\obj\Debug\testFormactual.exe
 C:\Users\mewme\OneDrive\Desktop\python test\testFormactual\testFormactual\obj\Debug\testFormactual.pdb
+C:\Users\Student\Downloads\testFormactual\testFormactual\bin\Debug\testFormactual.exe.config
+C:\Users\Student\Downloads\testFormactual\testFormactual\bin\Debug\testFormactual.exe
+C:\Users\Student\Downloads\testFormactual\testFormactual\bin\Debug\testFormactual.pdb
+C:\Users\Student\Downloads\testFormactual\testFormactual\obj\Debug\testFormactual.csprojAssemblyReference.cache
+C:\Users\Student\Downloads\testFormactual\testFormactual\obj\Debug\testFormactual.Form1.resources
+C:\Users\Student\Downloads\testFormactual\testFormactual\obj\Debug\testFormactual.Properties.Resources.resources
+C:\Users\Student\Downloads\testFormactual\testFormactual\obj\Debug\testFormactual.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\testFormactual\testFormactual\obj\Debug\testFormactual.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\testFormactual\testFormactual\obj\Debug\testFormactual.exe
+C:\Users\Student\Downloads\testFormactual\testFormactual\obj\Debug\testFormactual.pdb
