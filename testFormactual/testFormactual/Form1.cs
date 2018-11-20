@@ -29,11 +29,19 @@ namespace testFormactual
 
         private void button2_Click(object sender, EventArgs e)
         {
-            string Name = fName.Text;
-            string Database = Fdatabase.Text;
-            string ID = fID.Text;
+            //string Name = fName.Text;
+            //string Database = Fdatabase.Text;
+            //string ID = fID.Text;
 
-            MessageBox.Show(Name + "\n" + Database + "\n" + ID);
+            //MessageBox.Show(Name + "\n" + Database + "\n" + ID);
+
+            string str = fName.Text;
+
+            output output = new output(str);
+            this.Close();
+            output.Show();
+
+            
         }
 
         //https://www.guru99.com/c-sharp-windows-forms-application.html
@@ -52,6 +60,8 @@ namespace testFormactual
             int ID = random.Next(1, 100000);
 
             MessageBox.Show(Name + "\n" + Database + "\n" + ID);
+
+           
         }
 
 
