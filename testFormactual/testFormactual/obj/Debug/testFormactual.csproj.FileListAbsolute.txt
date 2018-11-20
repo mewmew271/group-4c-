@@ -18,3 +18,4 @@ C:\Users\Student\Downloads\testFormactual\testFormactual\obj\Debug\testFormactua
 C:\Users\Student\Downloads\testFormactual\testFormactual\obj\Debug\testFormactual.csproj.CoreCompileInputs.cache
 C:\Users\Student\Downloads\testFormactual\testFormactual\obj\Debug\testFormactual.exe
 C:\Users\Student\Downloads\testFormactual\testFormactual\obj\Debug\testFormactual.pdb
+C:\Users\Student\Downloads\testFormactual\testFormactual\obj\Debug\testFormactual.output.resources
