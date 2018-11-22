@@ -29,17 +29,16 @@ namespace testFormactual
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //string Name = fName.Text;
-            //string Database = Fdatabase.Text;
-            //string ID = fID.Text;
+			string Name = fName.Text;
+			string Database = Fdatabase.Text;
+			string ID = fID.Text;
 
-            //MessageBox.Show(Name + "\n" + Database + "\n" + ID);
+			//MessageBox.Show(Name + "\n" + Database + "\n" + ID);
 
-            string str = fName.Text;
-
-            output output = new output(str);
-            this.Close();
+            output output = new output(Name, ID);
+            
             output.Show();
+			//Close();
 
             
         }

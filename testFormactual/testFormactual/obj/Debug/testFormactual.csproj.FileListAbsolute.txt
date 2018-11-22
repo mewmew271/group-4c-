@@ -19,3 +19,27 @@ C:\Users\Student\Downloads\testFormactual\testFormactual\obj\Debug\testFormactua
 C:\Users\Student\Downloads\testFormactual\testFormactual\obj\Debug\testFormactual.exe
 C:\Users\Student\Downloads\testFormactual\testFormactual\obj\Debug\testFormactual.pdb
 C:\Users\Student\Downloads\testFormactual\testFormactual\obj\Debug\testFormactual.output.resources
+C:\Users\Student\Downloads\test\group-4c--master\testFormactual\testFormactual\bin\Debug\testFormactual.exe.config
+C:\Users\Student\Downloads\test\group-4c--master\testFormactual\testFormactual\bin\Debug\testFormactual.exe
+C:\Users\Student\Downloads\test\group-4c--master\testFormactual\testFormactual\bin\Debug\testFormactual.pdb
+C:\Users\Student\Downloads\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.csprojAssemblyReference.cache
+C:\Users\Student\Downloads\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.Form1.resources
+C:\Users\Student\Downloads\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.output.resources
+C:\Users\Student\Downloads\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.Properties.Resources.resources
+C:\Users\Student\Downloads\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.exe
+C:\Users\Student\Downloads\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.pdb
+C:\Users\Student\Downloads\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.wishlist.resources
+E:\uni\year 3\test\group-4c--master\testFormactual\testFormactual\bin\Debug\testFormactual.exe.config
+E:\uni\year 3\test\group-4c--master\testFormactual\testFormactual\bin\Debug\testFormactual.exe
+E:\uni\year 3\test\group-4c--master\testFormactual\testFormactual\bin\Debug\testFormactual.pdb
+E:\uni\year 3\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.csprojAssemblyReference.cache
+E:\uni\year 3\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.Form1.resources
+E:\uni\year 3\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.output.resources
+E:\uni\year 3\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.Properties.Resources.resources
+E:\uni\year 3\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.wishlist.resources
+E:\uni\year 3\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.csproj.GenerateResource.cache
+E:\uni\year 3\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.csproj.CoreCompileInputs.cache
+E:\uni\year 3\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.exe
+E:\uni\year 3\test\group-4c--master\testFormactual\testFormactual\obj\Debug\testFormactual.pdb
