@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Threading;
 
 namespace testFormactual
 {
@@ -18,6 +20,7 @@ namespace testFormactual
             outputFilmName.Text = name;
 			outputFilmID.Text = ID;
 			outputFilmDirector.Text = "bob";
+			
 		}
 
         private void label1_Click(object sender, EventArgs e)
@@ -31,23 +34,25 @@ namespace testFormactual
 		{
 
 		}
-
+		
 		private void saveToWl_Click(object sender, EventArgs e)
 		{
+			
+			//string text = outputFilmName.Text outputFilmID.Text outputFilmDirector.Text;		
+			
+			
 			wishlist wishlist = new wishlist(outputFilmName.Text, outputFilmID.Text, outputFilmDirector.Text);
-			//string text = outputFilmName.Text outputFilmID.Text outputFilmDirector.Text;
 
 			string[] wlSave = { outputFilmName.Text, outputFilmID.Text, outputFilmDirector.Text};
-			using (System.IO.StreamWriter file =
-					   new System.IO.StreamWriter(@"C:\Users\Student\Desktop\WriteText.txt"))
+			using (StreamWriter file = File.AppendText(@"C:\Users\Student\Desktop\WriteText.txt"))
 			{
 				foreach (string line in wlSave)				
 				file.WriteLine(line);
 			}
 
-			//System.IO.File.WriteAllText(@"C:\Users\Student\Desktop\WriteText.txt", text);
+		
 			this.Close();
-			//wishlist.Show();
+			wishlist.Show();
 		}
 	}
 }
