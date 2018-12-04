@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,7 +16,11 @@ namespace testFormactual
         public Form1()
         {
             InitializeComponent();
-        }
+			if (!File.Exists(@"C:\Users\Student\Desktop\WriteText.txt"))
+			{
+				File.Create(@"C:\Users\Student\Desktop\WriteText.txt");
+			}
+		}
 
         private void textBox4_TextChanged(object sender, EventArgs e)
         {
@@ -73,5 +78,10 @@ namespace testFormactual
         {
 
         }
-    }
+
+		private void Fdatabase_SelectedIndexChanged(object sender, EventArgs e)
+		{
+
+		}
+	}
 }
